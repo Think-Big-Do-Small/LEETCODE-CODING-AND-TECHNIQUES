@@ -33,9 +33,10 @@
 [Face Recognition Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 
 
-### 51CTO BLOG 
-51CTO blog(https://blog.51cto.com/WenFangjun)
+### SNS <br>
 
+### 51CTO BLOG 
+[51CTO blog](https://blog.51cto.com/WenFangjun)
 
 ### 微信公众号 
 
