@@ -24,6 +24,7 @@
 - I am a software engineer 
 - I am familar with computer languages, like c++,java,python 
 - I am recently doing some image segmentation projects with python and c++ 
+superpixel segmentation, U2-net segmentation etc.
 
 
 ### 51CTO BLOG 
