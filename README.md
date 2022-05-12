@@ -13,6 +13,13 @@
 第9题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 
+<div class="container">
+ <div class="row d-flex flex-row"> 
+  <div class="col-6">
+   第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)  
+  </div>
+ </div> 
+
 ### 51CTO BLOG 
 51CTO blog(https://blog.51cto.com/WenFangjun)
 
