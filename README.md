@@ -33,7 +33,7 @@
 ### 微信公众号 
 
 
-<img src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png?logo=c&style=flat">
+<img src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png?logo=c&style=flat"><img src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png?logo=c&style=flat"><img src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png?logo=c&style=flat">
 
 
 
