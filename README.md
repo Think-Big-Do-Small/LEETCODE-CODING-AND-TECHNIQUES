@@ -2,8 +2,8 @@
 ### LEETCODE CODING AND TECHNIQUES
 
 ### Leetcode 
-第1题 (#) 
-第2题 (#)
+第1题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES) 
+第2题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)
 
 ### 51CTO BLOG 
 51CTO blog(https://blog.51cto.com/WenFangjun)
