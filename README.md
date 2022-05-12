@@ -15,8 +15,11 @@
 
 <div class="container">
  <div class="row d-flex flex-row"> 
-  <div class="col-6">
+  <div class="col-3">
    第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)  
+  </div>
+  <div class="col-3">
+   第11题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)  
   </div>
  </div> 
 
