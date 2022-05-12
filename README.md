@@ -23,6 +23,7 @@
 - Computer Science, Master, Shenzhen University
 - I am a software engineer 
 - I am familar with computer languages, like c++,java,python 
+- I am familar with libraries opencv, keras, tensorflow, openvino
 - I am recently doing some image segmentation projects with python and c++ <br> superpixel segmentation, U2-net segmentation etc. <br> 
 [Superpixel Segmentation Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 [U2-Net Segmentation Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
