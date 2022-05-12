@@ -34,11 +34,10 @@
 
 
 ### SNS <br>
+ [51CTO Blog](https://blog.51cto.com/WenFangjun)   <img src="https://camo.githubusercontent.com/9d82114b4eec619cf9d680400beaf63d8924c786fc4f4e637d5f1821ea4264df/68747470733a2f2f737461746963332e353163746f2e636f6d2f6564752f626c6f672f696d616765732f6c6f676f6e6577352e706e67"> <br>
 
-### 51CTO BLOG 
- [51CTO blog](https://blog.51cto.com/WenFangjun)   <img src="https://camo.githubusercontent.com/9d82114b4eec619cf9d680400beaf63d8924c786fc4f4e637d5f1821ea4264df/68747470733a2f2f737461746963332e353163746f2e636f6d2f6564752f626c6f672f696d616765732f6c6f676f6e6577352e706e67"> <br>
+[WeChat Essays](https://blog.51cto.com/WenFangjun)  <img src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico"> <br>
 
-### 微信公众号 
 
 
 <img src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png?logo=c&style=flat"> <img  src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png?logo=c&style=flat"> <img src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png?logo=c&style=flat">
