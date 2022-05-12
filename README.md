@@ -21,6 +21,9 @@
 
 ### About Me 
 - Computer Science, Master, Shenzhen University
+- I am a software engineer 
+- I am familar with computer languages, like c++,java,python 
+- I am recently doing some image segmentation projects with python and c++ 
 
 
 ### 51CTO BLOG 
