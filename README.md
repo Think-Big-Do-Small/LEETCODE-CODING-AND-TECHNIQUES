@@ -24,8 +24,13 @@
 - I am a software engineer 
 - I am familar with computer languages, like c++,java,python 
 - I am recently doing some image segmentation projects with python and c++ <br> superpixel segmentation, U2-net segmentation etc. <br> 
-[Superpixel Segmentation Demo](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-[U2-Net Segmentation Demo](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
+[Superpixel Segmentation Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
+[U2-Net Segmentation Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
+[Polynominal Regression Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
+[Lane Detection Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
+[Traffic Sign Classification Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
+[Face Detection Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
+[Face Recognition Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 
 
 ### 51CTO BLOG 
