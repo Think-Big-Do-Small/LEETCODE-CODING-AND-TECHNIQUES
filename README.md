@@ -13,17 +13,9 @@
 第9题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 
+第9题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)  
+第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-<div class="container">
- <div class="row d-flex flex-row"> 
-  <div class="col-3">
-   第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)  
-  </div>
-  <div class="col-3">
-   第11题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)  
-  </div>
- </div> 
 
 ### 51CTO BLOG 
 51CTO blog(https://blog.51cto.com/WenFangjun)
