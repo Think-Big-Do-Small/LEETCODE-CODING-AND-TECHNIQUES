@@ -19,6 +19,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)
 
+### About Me 
+- Computer Science, Master, Shenzhen University
+
+
 ### 51CTO BLOG 
 51CTO blog(https://blog.51cto.com/WenFangjun)
 
