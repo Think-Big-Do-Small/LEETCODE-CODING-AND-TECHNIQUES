@@ -9,6 +9,9 @@
 
 
 
+<img src="https://img.shields.io/badge/C Lang-222222.svg?logo=c&style=flat"> <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&style=flat"> <img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat"> <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/Julia-a577bd.svg?logo=julia&style=flat"> <img src="https://img.shields.io/badge/MATLAB-0076A8.svg?logo=mathworks&style=flat"> <img src="https://img.shields.io/badge/HTML5-222222.svg?logo=html5&style=flat">
+
+
 
 
 
