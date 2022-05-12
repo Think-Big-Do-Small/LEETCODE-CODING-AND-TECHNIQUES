@@ -22,7 +22,9 @@
 ### About Me 
 - Computer Science, Master, Shenzhen University
 - I am a software engineer 
-- I am familar with computer languages, like c++,java,python 
+- I am familar with computer languages, like c++,java,python,c,matlab,html,css,jquery
+- I am familar with databases such as mysql, postgresql
+- I am familar with flask, apache tomcat
 - I am familar with libraries opencv, keras, tensorflow, openvino
 - I am recently doing some image segmentation projects with python and c++ <br> superpixel segmentation, U2-net segmentation etc. <br> 
 [Superpixel Segmentation Project](https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
