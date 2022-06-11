@@ -17,7 +17,7 @@
 第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 
 
-![GithubHeader]([https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif](https://gist.githubusercontent.com/Think-Big-Do-Small/76755486ef9ca2fd7b5a7e79d79bdfd3/raw/2f935607ae468c5fd4d428058cb8fcfa5e7062ac/fish.gif))
+![GithubHeader](https://gist.githubusercontent.com/Think-Big-Do-Small/76755486ef9ca2fd7b5a7e79d79bdfd3/raw/2f935607ae468c5fd4d428058cb8fcfa5e7062ac/fish.gif)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)
 
