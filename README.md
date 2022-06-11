@@ -20,9 +20,7 @@ pip install -r requirements.txt  # install
 
 </details>
 
-<div align="center">
- <img src="https://github.com/Think-Big-Do-Small/Assets/blob/5e93104dc5d4a882b406a55ed6b135e48301d664/test.PNG"/>
- </div>
+
 
 第1题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)    <br>
 第2题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
