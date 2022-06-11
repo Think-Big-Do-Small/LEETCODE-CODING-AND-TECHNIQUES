@@ -6,7 +6,7 @@
 ### Leetcode 
 
 <div align="center">
- <img width="2%" src="https://gist.githubusercontent.com/Think-Big-Do-Small/76755486ef9ca2fd7b5a7e79d79bdfd3/raw/2f935607ae468c5fd4d428058cb8fcfa5e7062ac/fish.gif" />
+ <img width="2%" src="https://github.com/Think-Big-Do-Small/Assets/blob/main/test.gif" />
  <a href="http://aizaozhidao.vip">AI早知道</a>
 </div>
 
