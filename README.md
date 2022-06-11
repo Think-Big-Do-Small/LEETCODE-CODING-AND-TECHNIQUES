@@ -6,8 +6,8 @@
 ### Leetcode 
 
 <div align="center">
- <img width="2%" src="https://github.com/Think-Big-Do-Small/Assets/blob/main/test.gif" />
- <a href="http://aizaozhidao.vip">AI早知道</a>
+ 
+ <a href="http://aizaozhidao.vip"><img width="2%" src="https://github.com/Think-Big-Do-Small/Assets/blob/main/test.gif" /></a>
 </div>
 
 第1题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)    <br>
