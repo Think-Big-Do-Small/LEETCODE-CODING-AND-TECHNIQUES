@@ -1,5 +1,6 @@
 
-![GithubHeader](https://gist.githubusercontent.com/Think-Big-Do-Small/76755486ef9ca2fd7b5a7e79d79bdfd3/raw/2f935607ae468c5fd4d428058cb8fcfa5e7062ac/fish.gif)
+![GithubHeader](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)
+
 ### LEETCODE CODING AND TECHNIQUES
 
 ### Leetcode 
