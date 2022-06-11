@@ -4,6 +4,12 @@
 ### Leetcode-Coding-Skills-And-Techniques
 
 ### Leetcode 
+
+<div align="center">
+ <img width="2%" />
+ <a href="http://aizaozhidao.vip">AI早知道</a>
+</div>
+
 第1题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)    <br>
 第2题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 第3题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
