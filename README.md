@@ -7,7 +7,7 @@
 
 <div align="center">
  
- <a href="http://aizaozhidao.vip"><img width="2%" src="[https://github.com/Think-Big-Do-Small/Assets/blob/main/test.gif](https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif)" /></a>
+ <a href="http://aizaozhidao.vip"><img width="2%" src="https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif" /></a>
 </div>
 
 第1题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)    <br>
