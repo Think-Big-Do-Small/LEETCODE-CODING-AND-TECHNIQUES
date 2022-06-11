@@ -6,8 +6,20 @@
 ### Leetcode 
 
 <div align="center">
- <a href="http://aizaozhidao.vip" style="font-size:60px;">AI早知道</a>
+ <a href="http://aizaozhidao.vip">AI早知道</a>
 </div>
+
+<details open>
+<summary>个人项目</summary>
+
+访问我的个人项目 [AI早知道](http://aizaozhidao.vip)
+
+```bash
+pip install -r requirements.txt  # install
+```
+
+</details>
+
 
 第1题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)    <br>
 第2题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
