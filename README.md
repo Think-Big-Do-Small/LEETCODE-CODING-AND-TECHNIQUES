@@ -6,8 +6,7 @@
 ### Leetcode 
 
 <div align="center">
- <p style="font-size:60px;">AI早知道</p>
- <a href="http://aizaozhidao.vip"><img width="100%" src="https://user-images.githubusercontent.com/37477845/92315782-e1255d80-f025-11ea-80e0-e62fc08c7a1e.gif" /></a>
+ <a href="http://aizaozhidao.vip" style="font-size:60px;">AI早知道</a>
 </div>
 
 第1题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)    <br>
