@@ -23,11 +23,11 @@ pip install -r requirements.txt  # install
 ## <div align="center">AI早知道</div>
 
 
-第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
-第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
-第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
-第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
-第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    
+第2题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    
+第3题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    
+第4题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    
+第5题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
 第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
 第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
 第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
