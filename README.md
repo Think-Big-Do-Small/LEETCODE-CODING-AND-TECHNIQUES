@@ -23,7 +23,7 @@ pip install -r requirements.txt  # install
 ## <div align="center">AI早知道</div>
 
 
-第1题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
 第2题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 第3题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
 第4题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
