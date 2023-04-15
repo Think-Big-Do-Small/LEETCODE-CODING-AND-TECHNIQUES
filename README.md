@@ -24,18 +24,29 @@ pip install -r requirements.txt  # install
 
 
 第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
-第2题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-第3题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-第4题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-第5题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-第6题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-第7题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-第8题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-第9题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
-
-第9题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)  
-第10题 (https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES)   <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
+第1题 (<a href="https://github.com/Think-Big-Do-Small/LEETCODE-CODING-AND-TECHNIQUES">第1题</a>)    <br>
 
 
 
